@@ -1,0 +1,19 @@
+{
+  "name": "vivify-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.3",
+    "querystring": "^0.2.0",
+    "request": "^2.87.0",
+    "serverless-http": "^1.6.0"
+  }
+}
